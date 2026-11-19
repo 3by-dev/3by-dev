@@ -1,6 +1,6 @@
 # Hi there, I'm Abdallah (3by-dev) 👋
 
-🎓 **Computer Science Student** | 💻 **Software Developer** | 🎨 **Graphic Designer & Video Editor** | 📍 **Biskra, Algeria**
+🎓 **Computer Science Student** | 💻 **Software Developer** | 🎨 **Graphic Designer & Video Editor** | 📍 **Algeria**
 
 I'm a Computer Science student and creative visual designer passionate about bridging the gap between **clean, efficient code** and **compelling visual design**. Whether I'm solving algorithmic problems in C, working in Linux, or crafting brand identities and video edits, I focus on precision, aesthetics, and functionality.
 
@@ -19,8 +19,6 @@ I'm a Computer Science student and creative visual designer passionate about bri
 **Programming & Development:**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Design & Video Editing:**
