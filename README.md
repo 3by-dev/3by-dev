@@ -1,6 +1,6 @@
 # Hi there, I'm Abdallah (3by-dev) 👋
 
-🎓 **Computer Science Student** | 💻 **Software Developer** | 🎨 **Graphic Designer & Video Editor** | 📍 **Algeria**
+🎓 **Computer Science Student** | 💻 **Software Developer** | 🎨 **Graphic Designer & Video Editor** | 📍 **In Algeria**
 
 I'm a Computer Science student and creative visual designer passionate about bridging the gap between **clean, efficient code** and **compelling visual design**. Whether I'm solving algorithmic problems in C, working in Linux, or crafting brand identities and video edits, I focus on precision, aesthetics, and functionality.
 
