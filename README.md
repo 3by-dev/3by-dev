@@ -35,7 +35,8 @@ I'm a Computer Science student and creative visual designer passionate about bri
 
 ---
 
-### 📊 GitHub Stats
+
+<!--### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=3by-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="3by-dev's GitHub Stats" height="16## Hi there 👋
